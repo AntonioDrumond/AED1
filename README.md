@@ -1,2 +1,3 @@
 # AED1
-Arquivos relacionados à matéria Algoritmos e Estruturas de Dados 1 na PUC Minas
+## Profesor: Theldo Cruz Franqueira
+###### Arquivos da matéria Algoritmos e Estruturas de Dados 1 
