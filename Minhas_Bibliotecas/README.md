@@ -7,3 +7,7 @@
  
 ## LibAD.hpp
 + Em construção ;)
+
+
+## Créditos:
++ Feitas por Antônio Drumond, baseadas nas bibliotecas io.h e io.hpp do professor Theldo Cruz Franqueira
