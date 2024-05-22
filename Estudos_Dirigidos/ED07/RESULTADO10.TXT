@@ -1,0 +1,5 @@
+Sequencia 1 => 0 numeros maiores ou iguais a 5.
+Sequencia 2 => 1 numeros maiores ou iguais a 5.
+Sequencia 3 => 1 numeros maiores ou iguais a 5.
+Sequencia 4 => 0 numeros maiores ou iguais a 5.
+Sequencia 5 => 2 numeros maiores ou iguais a 5.

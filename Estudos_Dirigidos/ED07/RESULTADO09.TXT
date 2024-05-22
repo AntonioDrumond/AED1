@@ -1,0 +1,1 @@
+Sequencia 1 => 2 letras maiusculas.Sequencia 2 => 5 letras maiusculas.Sequencia 3 => 1 letras maiusculas.Sequencia 4 => 0 letras maiusculas.Sequencia 5 => 1 letras maiusculas.
